@@ -4,7 +4,6 @@
 *.eml
 *.class
 *.pdf
-*.md
 *.png
 *..classpath
 *..project
